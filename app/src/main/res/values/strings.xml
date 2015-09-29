@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HerokuVolleyTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="send_btn">送信</string>
+    <string name="post_txt">渡すデータ</string>
+    <string name="res_txt">受け取ったデータ</string>
+</resources>
